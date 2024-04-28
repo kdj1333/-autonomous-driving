@@ -29,7 +29,7 @@
 >> - Language : python3  
 >> - Skill : Django, Django-rest-framework, PostgreSQL
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>> [프로젝트 상세 설명(Back-end)](https://github.com/kdj1333/hacking-scenario)  
 >
 >> Front-end
 >> - Language : javascript
