@@ -10,4 +10,12 @@
 <br />
 
 ## 📼 실습 테스트 영상
-> - https://www.youtube.com/watch?v=nR3SIPwBE40&list=PLA7DQVYBXo2il3DXTYznwDIX_j5pRQtRs&pp=gAQBiAQB
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href=" https://www.youtube.com/watch?v=nR3SIPwBE40&list=PLA7DQVYBXo2il3DXTYznwDIX_j5pRQtRs&pp=gAQBiAQB" title="자율주행 스마트카">
+          <img align="center" src="https://i.ytimg.com/vi/ydBvWUDcaa4/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Ac4FgAKACooCDAgAEAEYSyBlKGUwDw==&rs=AOn4CLA1PhxvVg-GRR39-JXVFDcbbUFDrw" width="300" alt-text="자율주행 스마트카">
+        </a>
+      </td>
+      <td>
