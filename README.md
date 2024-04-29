@@ -8,3 +8,6 @@
 > - >> - Skill : Arduino
 
 <br />
+
+## 📼 실습 테스트 영상
+> - https://www.youtube.com/watch?v=nR3SIPwBE40&list=PLA7DQVYBXo2il3DXTYznwDIX_j5pRQtRs&pp=gAQBiAQB
