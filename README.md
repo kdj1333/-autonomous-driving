@@ -6,7 +6,7 @@
 > - Opencv파이썬-아두이노 연동을 통한 차선감지/ 카메라를 연결을 통해 신호등 색상인식 등 정교한 주행을 위해 개선중..
 >
 > - >> - Language : Python
-> - >> - Skill : Arduino
+> - >> - Skill : Arduino, 커뮤니케이션, 유연성, 팀워크, 리더십
 
 <br />
 
